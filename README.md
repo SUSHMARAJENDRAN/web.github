@@ -1,1 +1,1 @@
-# web.github
+# Simple clg website
